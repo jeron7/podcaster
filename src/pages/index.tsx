@@ -1,5 +1,7 @@
+import { Header } from "../components/Header";
+
 export default function Home() {
   return(
-    <h1>Welcome to Create Next App</h1>
+    <div></div>
   );
 };
